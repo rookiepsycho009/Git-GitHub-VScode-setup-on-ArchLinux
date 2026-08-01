@@ -68,4 +68,4 @@ code                               #To launch code
 # How To Configure 
 
 > <h3>GitHub</h3>
-Open your browser and type [github.com](github.com) There you will see this type of interface : 
+Open your browser and type [github.com](https://github.com/) There you will see this type of interface : 
