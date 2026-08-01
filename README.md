@@ -1,10 +1,10 @@
 # Git-GitHub-VScode-setup-on-ArchLinux
 
 # Git, GitHub & VS Code Setup on Arch Linux
-2
+
  
-3
-A beginner-friendly guide to setting up Git, GitHub, and VS Code on Arch Linux.
+
+#### A beginner-friendly guide to setting up Git, GitHub, and VS Code on Arch Linux.
 4
  
 5
@@ -12,7 +12,7 @@ A beginner-friendly guide to setting up Git, GitHub, and VS Code on Arch Linux.
 6
 
 !assets/1234.jpg
-![image alt](assets/1234.jpg)
+![google logo](assets/1234.jpg)
  
 7
 ## Table of Contents
