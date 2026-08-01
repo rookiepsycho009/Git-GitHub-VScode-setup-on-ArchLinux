@@ -69,3 +69,48 @@ code                               #To launch code
 
 > <h3>GitHub</h3>
 Open your browser and type [github.com](https://github.com/) There you will see this type of interface : 
+
+![github image](assets/githubinterface.png)
+
+Now, you have to SignUp first and then click on the green button to open a new repository. Initially you won't have any repo, So, welcome to your first repo. This is where you are going to store your code, manage versions and colleborate with others. 
+
+After clicking the <span style="color:green">New</span> button you will end up here: 
+
+![New Repo](assets/creatingnewrepo.png)
+
+Give it a name,description and add readme and then hit create repository .
+
+
+### Great ! You have officially created your first repo. Then comes the interesting part 
+
+
+> <h3>Git</h3>
+
+Fist of all we need to configure your git profile. For that, open your terminal and type 
+
+```bash 
+git config --global user.name "Your Name"
+git config --global user.email "your.email@example.com"
+git config --list   #To display all configuration settings 
+```
+Then create a folder with gittest on your desktop or any other folder. 
+Open Code-OSS by typing 
+
+```bash 
+code 
+```
+Then open the folder you created. After that open your code-OSS terminal by pressing ctrl+`   
+
+Then to add your GitHub repo to your local machine AKA your laptop or computer you need to use some git commands.Here are they: 
+ 
+
+ ```bash 
+ git clone the-https-link-of-your-repo
+ ```
+ > [!NOTE]
+ > You will find the https link on your repo. Notice that there is a <span style="color:green">Code</span>
+button there. Click on it and you will find the link. Just copy and paste it. 
+
+The repo will come to the folder that you have created. There you will see your README.md file.If you type cd (change directory) on your terminal and type the name of your repo you will enter on that file 
+
+
