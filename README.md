@@ -113,7 +113,7 @@ button there. Click on it and you will find the link. Just copy and paste it.
 
 The repo will come to the folder that you have created. There you will see your README.md file.If you type cd (change directory) on your terminal and type the name of your repo you will enter on that file 
 
-After that create any file with any language, code, edit. Then on your Code-OSS terminal type
+After that create any file with any language. And then  code, edit. Then on your Code-OSS terminal type
 
 
 ```bash 
