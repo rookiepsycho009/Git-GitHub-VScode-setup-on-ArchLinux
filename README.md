@@ -93,7 +93,7 @@ git config --global user.name "Your Name"
 git config --global user.email "your.email@example.com"
 git config --list   #To display all configuration settings 
 ```
-Then create a folder with gittest on your desktop or any other folder. 
+Then create a folder named gittest on your desktop or any other folder. 
 Open Code-OSS by typing 
 
 ```bash 
@@ -112,5 +112,40 @@ Then to add your GitHub repo to your local machine AKA your laptop or computer y
 button there. Click on it and you will find the link. Just copy and paste it. 
 
 The repo will come to the folder that you have created. There you will see your README.md file.If you type cd (change directory) on your terminal and type the name of your repo you will enter on that file 
+
+After that create any file with any language, code, edit. Then on your Code-OSS terminal type
+
+
+```bash 
+git status      #To check the changes that you made
+git add .       #To save those chnages 
+git commit -m "name-you-want-for-that-change"
+git push origin main 
+```
+
+After that come to your repo, refresh it and you will see that the changes you made on your local machine are on your repo....
+
+
+# Workflow 
+
+1.Open a github repository   
+2.Clone it on Code-OSS via git   
+3.Upload the chnages on github   
+4.Collaborate with others 
+
+
+# Conclusion 
+
+This is how you can access your code from anywhere you want. And a clean arch-linux code development setup..
+
+
+
+> [!WARNING]
+> If you have come this far I want you to know that this is the first time I am making a tutorial. So, there is going to be a lot of mistakes. But I will try to update this repo whenever I get time. Also feel free to indentify any issue and contribute if you want..
+
+
+
+> Thanks for reading!! 
+
 
 
