@@ -17,9 +17,8 @@ A beginner-friendly guide to setting up Git, GitHub, and VS Code on Arch Linux.
 ## Table of Contents
 
  
-
-- #install-git-using-pacman
-- #configure-git
+# install-git-using-pacman
+# configure-git
 
 - #generate-ssh-key
 12
