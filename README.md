@@ -11,7 +11,7 @@ A beginner-friendly guide to setting up Git, GitHub, and VS Code on Arch Linux.
 ---
 6
 
-assets/1234.jpg
+!assets/1234.jpg
 
  
 7
